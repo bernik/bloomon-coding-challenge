@@ -1,8 +1,8 @@
 # Solution for bloomon.nl coding challenge
 
 Requirements: 
-    * Docker 
-    * bash 
+* Docker 
+* bash 
 
 ## How to run  
 
